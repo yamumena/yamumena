@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Yamu, a data scientist excited to explore the various applications and explanations that this discipline offers. I like to think of myself as a modern detective 🔍, but instead of searching for clues at a crime scene, I seek answers in piles of data! 😄 From small curiosities to big challenges, I delve into it all. In this repository, you'll find a collection of projects. Each project stems from a question that has inspired me at some moment of reflection or observation of the world around us. 😊</p>
+<p align="left">I'm Yamu, a data scientist excited to explore the various applications that this discipline offers. I like to think of myself as a modern detective 🔍, but instead of searching for clues at a crime scene, I seek answers in piles of data! 😄 From small curiosities to big challenges, I delve into it all. In this repository, you'll find a collection of projects. Each project stems from a question that has inspired me at some moment of reflection or observation of the world around us. 😊</p>
 
 ###
 
